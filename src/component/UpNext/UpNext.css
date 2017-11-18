@@ -1,0 +1,28 @@
+#container{
+    background: yellow
+}
+
+.upnext{
+    display: inline
+}
+
+.fighter1{
+    display: inline;
+}
+#fighter1name{
+    padding-inline-end: 5px;
+}
+#fighter1school{
+    padding-inline-end: 5px;
+}
+#fighter1weight{
+    padding-inline-end: 5px;
+}
+#fighterrank{
+    padding-inline-end: 5px;
+}
+
+.fighter2{
+    display: inline;
+
+}
